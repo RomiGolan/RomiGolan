@@ -7,7 +7,7 @@ I'm a **Computer Science and Entrepreneurship student**, curious to learn new th
 * 🎓 **Education**: Currently pursuing my B.Sc. in Computer Science & Entrepreneurship at Reichman University.
 * 🤝 **Connect**: Let's connect on LinkedIn: [My Profile](https://www.linkedin.com/in/romi-golan/)
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
